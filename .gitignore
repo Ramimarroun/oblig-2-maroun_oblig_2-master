@@ -1,0 +1,5 @@
+# Project exclude paths
+/oblig-2-maroun_oblig_2-master/.gradle/
+/oblig-2-maroun_oblig_2-master/build/
+/oblig-2-maroun_oblig_2-master/build/classes/java/main/
+/oblig-2-maroun_oblig_2-master/build/classes/java/test/
